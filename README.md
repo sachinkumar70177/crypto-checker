@@ -13,4 +13,4 @@ This site was built using [Vercel](https://cryptochecker-one.vercel.app/)
 - Deployed the application using Vercel for seamless updates without the need for manual FTP uploads, ensuring efficient development and deployment processes.
 
   ## Video Showcase
-  [![Video Showcase](https://img.youtube.com/vi/6zRX6yXJEts/0.jpg)]
+  [![Video Showcase](https://img.youtube.com/vi/6zRX6yXJEts/0.jpg)](https://drive.google.com/file/d/1KtmFvZIrxJg7JXesGefO23Z6y3WTJqgY/view?usp=sharing)
